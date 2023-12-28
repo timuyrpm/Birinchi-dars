@@ -1,0 +1,23 @@
+
+ h1{
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+    background-color: green;
+    text-align: center;
+}
+body{
+    background-color: blue;
+}
+h2{
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    color: coral;
+    background-color: darkgoldenrod;
+    text-align: center;
+
+}
